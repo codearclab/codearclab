@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to the <a href="https://getcodearc.vercel.app/">Codearc</a> community!</h1><br>
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://getcodearc.vercel.app/">
     <img src="./logo.svg" alt="Codearc logo" width="200" height="165">
   </a>
 </p>
